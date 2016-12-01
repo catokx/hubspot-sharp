@@ -1,0 +1,5 @@
+C:\Dev\github\hubspot-sharp\HubSpotSharp\bin\Debug\HubSpotSharp.dll
+C:\Dev\github\hubspot-sharp\HubSpotSharp\bin\Debug\HubSpotSharp.pdb
+C:\Dev\github\hubspot-sharp\HubSpotSharp\obj\Debug\HubSpotSharp.csprojResolveAssemblyReference.cache
+C:\Dev\github\hubspot-sharp\HubSpotSharp\obj\Debug\HubSpotSharp.dll
+C:\Dev\github\hubspot-sharp\HubSpotSharp\obj\Debug\HubSpotSharp.pdb
